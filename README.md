@@ -1,2 +1,2 @@
 # powershell-scripts
-Powershell scripts I wrote for various use cases in ed tech
+Powershell scripts for various use cases in ed tech
